@@ -1,0 +1,6 @@
+model:  mod38_multi_5.i150.hdf5
+Test accuracy for empty images: 0.98% (correct   985, incorrect    15)
+Test accuracy for intruder images: 0.98% (correct   979, incorrect    21)
+Test accuracy for intruder_traces images: 0.73% (correct   734, incorrect   266)
+Test accuracy for door images: 0.92% (correct   113, incorrect    10)
+Test accuracy for night images: 0.84% (correct   187, incorrect    36)
